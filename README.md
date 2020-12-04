@@ -1,0 +1,2 @@
+# transmission
+transmissionRUS  Debian
